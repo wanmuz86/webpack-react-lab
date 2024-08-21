@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5", // configuration for es5 js
+      "module": "esnext",
+      "jsx": "react", // react configuration
+      "strict": true, // true/false this is where you control the "strictess" of TS , eg data type verification
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src/**/*", "src/declarations.d.ts"]
+  }
+ 

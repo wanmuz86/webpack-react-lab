@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_react_lab=self.webpackChunkwebpack_react_lab||[]).push([[413],{413:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c});var n=a(540);const c=function(){return n.createElement("div",null,n.createElement("h1",null,"This is Component A"))}}}]);
